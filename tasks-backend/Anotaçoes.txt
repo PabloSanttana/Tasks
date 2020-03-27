@@ -1,0 +1,23 @@
+pasta api:
+        bcryp e para crypitografa a senha do usuari
+module.esports = app esse app esta sendo afunçaõ express que esta no index.js
+
+token:{
+
+}
+
+npm i --save body-parser
+foi colocado em middlewares muito importante
+
+  consiguração do banco de dados
+npm i knex -g 
+knex init
+esta em db
+
+
+passaport toke; {
+
+dentro de api tem passaport
+nele fazemos a autenticação do usuario se ele
+
+}
